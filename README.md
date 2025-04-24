@@ -18,7 +18,8 @@
 
 ### 📫 **Cómo contactarme**  
 - 📧 Correo: genxprays@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/B.AguirreC.](https://www.linkedin.com/in/bernabe-aguirre-carrasco-068218267/ 
+- 🔗 LinkedIn: https://www.linkedin.com/in/bernabe-aguirre-carrasco-068218267/
+- Credenciales BID: https://credencialesbid.openbadgepassport.org/app/profile/10969
 
 ### 😄 **Pronombres**  
 TCreaMYPE
