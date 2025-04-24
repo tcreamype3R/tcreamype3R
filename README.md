@@ -30,6 +30,8 @@ TCreaMYPE
 GenX
 3R
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=tcreamype3R&show_icons=true&theme=radical)
 
 ### ⚡ **Dato curioso**  
