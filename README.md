@@ -1,5 +1,7 @@
 # ¡Hola! 👋 Soy **@tcreamype3R**  
 
+IA-GEEK:![DeepSeek Learner](https://img.shields.io/badge/DeepSeek%20Progress-TICs%20%26%20Firebase%20Avanzado-blue)
+
 ### 🚀 Proyectos  
 - [Virtudes-P31](https://virtudessp31.web.app/): Mi primer sitio con Firebase Hosting.  
 - [Arte-v1](https://arte-v1.web.app): Mi segundo sitio con Firebase Hosting.
