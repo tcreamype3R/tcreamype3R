@@ -18,7 +18,7 @@
 
 ### 📫 **Cómo contactarme**  
 - 📧 Correo: genxprays@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/tu-perfi](https://www.linkedin.com/in/bernabe-aguirre-carrasco-068218267/ 
+- 🔗 LinkedIn: https://linkedin.com/in/B.AguirreC.](https://www.linkedin.com/in/bernabe-aguirre-carrasco-068218267/ 
 
 ### 😄 **Pronombres**  
 TCreaMYPE
