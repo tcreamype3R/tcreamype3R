@@ -30,6 +30,8 @@ TCreaMYPE
 GenX
 3R
 
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tcreamype3R&show_icons=true&theme=radical)
+
 ### ⚡ **Dato curioso**  
 ¡Autodidacta en tecnología! Aprendí a desplegar sitios web con Firebase tras superar errores como `Directory 'public' does not exist` 😅.  
 Gracias IAGen
