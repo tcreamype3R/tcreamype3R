@@ -16,7 +16,14 @@ IA-GEEK:![DeepSeek Learner](https://img.shields.io/badge/DeepSeek%20Progress-TIC
 ### 🌱 **Aprendiendo actualmente**  
 - Firebase (Hosting, Firestore, Functions).  
 - Frameworks JavaScript (React, Vue o Angular).  
-- DevOps básico (GitHub Actions, CI/CD).  
+- DevOps básico (GitHub Actions, CI/CD).
+
+### 🛠 **Tecnologías que deepseeok: Domino**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
 
 ### 💞️ **Colaboraciones**  
 ¡Estoy abierto a proyectos innovadores! En especial:  
