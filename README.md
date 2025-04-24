@@ -1,6 +1,8 @@
 # ¡Hola! 👋 Soy **@tcreamype3R**  
+👉 "Geek no es saberlo todo, es querer aprenderlo todo". 🚀
 
 IA-GEEK:![DeepSeek Learner](https://img.shields.io/badge/DeepSeek%20Progress-TICs%20%26%20Firebase%20Avanzado-blue)
+
 
 ### 🚀 Proyectos  
 - [Virtudes-P31](https://virtudessp31.web.app/): Mi primer sitio con Firebase Hosting.  
@@ -31,14 +33,25 @@ IA-GEEK:![DeepSeek Learner](https://img.shields.io/badge/DeepSeek%20Progress-TIC
 TCreaMYPE
 GenX
 3R
+![IA-GEEK](https://img.shields.io/badge/IA--GEEK-TICs%20%26%20Firebase%20Lover-blueviolet)
+
+### 🧠 **Filosofía IA-GEEK**  
+- "Autodidacta por naturaleza, hacker de soluciones por pasión".  
+- Creo que la tecnología debe ser **útil y accesible**.  
+- Mi Hobbie Daily: Google/Deepsek + paciencia + café ☕.  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=tcreamype3R&show_icons=true&theme=radical)
 
-### ⚡ **Dato curioso**  
+### ⚡ **Dato1**  
 ¡Autodidacta en tecnología! Aprendí a desplegar sitios web con Firebase tras superar errores como `Directory 'public' does not exist` 😅.  
-Gracias IAGen
+Gracias IAGen.
+
+⚡ **Dato2**:  
+Me autodenomino **"IA-GEEK"** porque combino mi obsesión por la inteligencia artificial con soluciones prácticas (como desplegar apps en Firebase tras horas de debuggear errores 🐛).
+
+![IA-GEEK](https://img.shields.io/badge/IA--GEEK-Artificial%20Intelligence%20%26%20Firebase-9cf?logo=openai)
 
 DeeeSeek
 Claude
@@ -46,6 +59,12 @@ Phind
 Copilot
 Gemini (¿aún no sé que es?)
 ---
+### 🔥 IA-GEEK en progreso...  
+
+![IA-GEEK](https://img.shields.io/badge/IA--GEEK-TICs%20%26%20Firebase%20Lover-blueviolet)  
+
+⚡ **Dato3o**:  
+Mi título "IA-GEEK" nació tras debuggear 10 horas seguidas un error en Firebase. ¡La persistencia es mi superpoder!  
 
 <!---
 tcreamype3R/tcreamype3R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
